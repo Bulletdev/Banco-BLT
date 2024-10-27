@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1 align="center">Banco Digital BLT</h1>
+<h1 align="center">🏦 Banco Digital BLT</h1>
 
 <p align="center">
     <strong>Banco Digital BLT</strong> é um sistema bancário simples em Java que implementa os princípios da Programação Orientada a Objetos (POO), incluindo Abstração, Encapsulamento, Herança e Polimorfismo. O sistema oferece aos clientes a possibilidade de gerenciar contas correntes e poupança, com funcionalidades de depósito, saque e transferência.
