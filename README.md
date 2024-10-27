@@ -39,14 +39,14 @@ BancoDigital/
 <h2>📦 Instalação e Execução</h2>
 <ol>
     <li>Clone o repositório em sua máquina local:
-        <pre><code>git clone https://github.com/seu-usuario/banco-digital-blt.git</code></pre>
+        <pre><code>git clone https://github.com/BulletDEV/Banco-BLT.git</code></pre>
     </li>
     <li>Compile os arquivos:
-        <pre><code>cd BancoDigital/src
+        <pre><code>cd Banco-BLT/src
 javac *.java</code></pre>
     </li>
     <li>Execute a aplicação:
-        <pre><code>java BancoDigital</code></pre>
+        <pre><code>java Banco-BLT</code></pre>
     </li>
 </ol>
 
